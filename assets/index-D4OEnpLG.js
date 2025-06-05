@@ -83,7 +83,7 @@ var O=Object.defineProperty;var L=(s,r,i)=>r in s?O(s,r,{enumerable:!0,configura
 			& > .so-video-overlay {
 				position: absolute;
 				inset: 0;
-				background-image: url('/content/overlay.svg');
+				background-image: url('./content/overlay.svg');
 				background-position: center;
 				background-repeat: repeat;
 				background-size: 0.5rem 0.5rem;
